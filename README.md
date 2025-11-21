@@ -1,5 +1,3 @@
-<h1>Hey, Wahid here. Currently Building in the Blockchain space.</a></h1>
-
 <h2> My Projects 👨‍💻</h2>
 
 <b>1. [Blockchain - Cyfrin Updraft - Solidity Smart Contract Development 🪙](https://github.com/wahidonchain/cyfrin-smart-contract-dev)
